@@ -1,5 +1,5 @@
 # Enterprise_Architecture
-# JDBC
-# XML
-# Java Thread
-# Java Servlet
+## JDBC
+## XML
+## Java Thread
+## Java Servlet
