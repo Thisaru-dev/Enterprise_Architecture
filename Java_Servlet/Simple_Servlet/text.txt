@@ -1,0 +1,5 @@
+Goal:
+Create a simple servlet that displays a static message to the user.
+Steps:
+1. Create a Java Servlet (DisplayMessageServlet) that outputs a static message.
+2. Configure the servlet using the @WebServlet annotation or the web.xml deployment descriptor.
